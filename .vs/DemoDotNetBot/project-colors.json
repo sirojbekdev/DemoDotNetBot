@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "28b4ebdd-b05f-42c1-a69a-1c06970ec207": {
+      "ProjectGuid": "28b4ebdd-b05f-42c1-a69a-1c06970ec207",
+      "DisplayName": "DemoDotNetBot",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
